@@ -29,7 +29,7 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          EXTERNAL_REPOSITORY: envoys8/envoys8.github.io
+          # EXTERNAL_REPOSITORY: envoys8/envoys8.github.io
           PUBLISH_BRANCH: master
           PUBLISH_DIR: ./public
           commit_message: ${{ github.event.head_commit.message }}
