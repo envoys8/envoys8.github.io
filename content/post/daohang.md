@@ -2,11 +2,15 @@
 title: "导航:"
 author: ["John Doe"]
 description: "导航"
-lastmod: 2022-10-17T01:38:53+08:00
+lastmod: 2022-12-12T01:09:38+08:00
 draft: false
 ---
 
 [Study - AnkiWeb '0.0'](https://ankiuser.net/study/) <br/>
+
+<https://www.inoreader.com/> <br/>
+
+<http://107.173.147.65:7780/unread> <br/>
 
 [显示查询自己的IP地址 '0.0'](http://ip111.cn/) <br/>
 
@@ -15,6 +19,8 @@ draft: false
 [#英语 '0.0'](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NzIyNjU4Ng==&action=getalbum&album_id=1500874070236676101&scene=173&from_msgid=2247508204&from_itemidx=1&count=3&nolastread=1#wechat_redirect) <br/>
 
 [iCloud '0.0'](https://www.icloud.com.cn/) <br/>
+
+<https://twitter.com/GacktCamiu/likes> <br/>
 
 
 ## 本地服务 记账: {#本地服务-记账}
@@ -27,6 +33,7 @@ draft: false
 [Spotify – Discover Weekly '0.0'](https://open.spotify.com/playlist/37i9dQZEVXcEt5byYj42bM) <br/>
 
 [閱讀和學習音樂 ,集中的音樂,學習專注力讀書音樂 ,舒壓放鬆鋼琴音樂,放鬆音樂【作業用,勉強用BGM】Relaxing Relax Music,Study music - YouTube '0.0'](https://www.youtube.com/watch?v=MgphHyGgeQU) <br/>
+[深度焦点音乐以提高集中注意力-12小时的环境学习音乐集中精力＃339 - YouTube '0.0'](https://www.youtube.com/watch?v=leb5mU7gU-0) <br/>
 
 [(28) IU (아이유) PLAYLIST 2022 UPDATED | 아이유 노래 모음 - YouTube '0.0'](https://www.youtube.com/watch?v=GrRbA6OkTxA) <br/>
 
