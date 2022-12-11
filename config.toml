@@ -1,4 +1,28 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "hugo-PaperMod"
+baseURL = "http://example.org/"   # 'http://example.org/'
+languageCode = "en-US" # Controls html lang attribute
+title = "Bulma for Hugo" # Homepage title and page title suffix
+paginate = 5 # Number of posts to show before paginating
+theme = "hugo-PaperMod" # "bulma" # to use as default theme
+
+enableRobotsTXT = true # Suggested, it generates a robots.txt
+googleAnalytics = "" # Optional, add tracking Id for analytics
+disqusShortname = "" # Optional, add Disqus shortname for comments
+SectionPagesMenu = "main" # Enable menu system for lazy bloggers
+
+#[params.assets]
+#custom_css = ["css/copy-to-clipboard.css"]
+#custom_js = ["js/copy-to-clipboard.js"]
+#
+[params.assets]                   # 资产库（包括 css 和 js）
+  css = ["css/fonts.css","css/archive.css","css/custom_style.css","css/add-copy-btn.css"]
+  js = ["js/copy-to-clipboard.js","js/toc.js","js/add-copy-btn.js"]
+[params]
+  customcss = ['css/add-copy-btn.css']
+  customjs = ['js/add-copy-btn.js']
+  theme_variant = "" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
+  description = "A Simple Blog with Bulma" # Suggested, controls default description meta and landing page
+  powered_by = "love" # Optional, controls name display on footer
+  hide_author = false # Optional, set true to hide author name on posts
+  images = [] # Suggested, controls default OpenGraph images controls author name display on meta tag
+  github  = "github" # Optional, to display link to github account in menu bar
+  twitter = "twitter" # Optional, to display link to twitter account in menu bar
