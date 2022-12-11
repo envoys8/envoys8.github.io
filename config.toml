@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"   # 'http://example.org/'
+baseURL = "https://envoys8.github.io/"   # 'http://example.org/'
 languageCode = "en-US" # Controls html lang attribute
 title = "Bulma for Hugo" # Homepage title and page title suffix
 paginate = 5 # Number of posts to show before paginating
