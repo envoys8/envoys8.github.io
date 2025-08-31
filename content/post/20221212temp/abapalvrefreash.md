@@ -2,7 +2,7 @@
 title: "执行命令后刷新命令"
 author: ["John Doe"]
 description: "20221212temp"
-lastmod: 2023-12-27T13:12:58+08:00
+lastmod: 2023-12-27T13:14:16+08:00
 draft: false
 ---
 

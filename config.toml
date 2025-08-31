@@ -1,7 +1,7 @@
 baseURL = "https://envoys8.github.io/"   # 'http://example.org/'
 languageCode = "en-US" # Controls html lang attribute
 title = "Bulma for Hugo" # Homepage title and page title suffix
-paginate = 5 # Number of posts to show before paginating
+paginate = 15 # Number of posts to show before paginating
 theme = "hugo-PaperMod" # "bulma" # to use as default theme
 
 enableRobotsTXT = true # Suggested, it generates a robots.txt
